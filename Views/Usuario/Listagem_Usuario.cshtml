@@ -1,0 +1,56 @@
+@model List<Usuario>
+    @{
+        ViewData["Title"] = "Lista";
+    }
+    <style>
+       body{
+        background-image: url("/imagens/barcoerio.jpeg");
+        background-size: cover;
+    }
+        
+        input{font-size: 15px;}
+    </style>
+
+    <table class="table">
+<thead>
+
+<tr>
+
+<th>Id</th>
+<th>Nome</th>
+<th>Login</th>
+<th>Senha</th>
+<th>DataNascimento</th>
+<th>Operações</th>
+</tr>
+</thead>
+@foreach (Usuario u in Model)
+{
+    <tr>
+<td>@u.Id</td>
+<td>@u.Nome</td>
+<td>@u.Login</td>
+<td>@u.Senha</td>
+<td>@u.DataNascimento.ToShortDateString()</td> 
+<td>
+    <a href="/Usuario/Editar?Id=@u.Id">Alterar</a>
+    <a href="/Usuario/Remover?Id=@u.Id">Excluir</a>
+
+    </td>
+</tr>
+}
+    </table>
+    <p>@ViewBag.Mensagem</p>
+
+    <footer>
+            <div>
+                <a>Veterinária responsável: Cristiane Muniz Mayer CRMV-DF 3076</a>               
+                <p>Atentimento em Brasilia e região no conforto de sua casa </p><a
+                    href="https://api.whatsapp.com/send/?phone=5561999983327&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+                <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank">
+                    <p>Todos os direitos reservado pela Lei Nº 13.709, de 14 de Agosto de 2018.</p></a>                
+                <p>Esse site foi produzido por: Maykon Figueredo de Borba com o e-mail: maykon_fb84@yahoo.com.br</p><a
+                    href="https://api.whatsapp.com/send/?phone=5541997027451&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+            </div>
+
+        </footer>

@@ -1,0 +1,128 @@
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.exe
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.deps.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.dev.json
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.dll
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csprojAssemblyReference.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfoInputs.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfo.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.input.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.output.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorCoreGenerate.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.xml
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.genruntimeconfig.cache
+C:\Users\Maykon\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CopyComplete
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csprojAssemblyReference.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfoInputs.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.input.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.output.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorCoreGenerate.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.exe
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.deps.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.dev.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.xml
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.genruntimeconfig.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CopyComplete
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacidade.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\galeria.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Listagem.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamentos.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\servicos.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.exe
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.deps.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.runtimeconfig.dev.json
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csprojAssemblyReference.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfoInputs.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.AssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorAssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.input.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.TagHelpers.output.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorCoreGenerate.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\galeria.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacidade.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\servicos.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.Views.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.csproj.CopyComplete
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.Manifest.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\staticwebassets\CRIS-VETERINARIA_MVC.StaticWebAssets.xml
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.dll
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.pdb
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\CRIS-VETERINARIA_MVC.genruntimeconfig.cache
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento\Agendamentos.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamento\Listagem_Agenda.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato\Contato.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contato\Listagem.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuario\Cadastro.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuario\Editar.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuario\Listagem_Usuario.cshtml.g.cs
+C:\Users\Maykon\Google Drive\TECNICO DE INFORMATICA SENAC\teste de programação\SENAC - PROJETOS\CRIS-VETERINARIA_MVC_BD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Usuario\Login.cshtml.g.cs

@@ -1,0 +1,55 @@
+@model List<Contato>
+
+   <style>
+    body{
+        background-image: url("/imagens/Cachorro_e_Gato.JPEG");
+        background-size: cover;
+    }        
+        input{font-size: 15px;}
+    </style>
+   
+    <h2>Lista de Contatos</h2>
+
+     <table border="1">
+        <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nome</th>
+                    <th>Email</th>
+                    <th>Assunto</th>
+                    <th>Mensagem</th>
+                </tr>
+        </thead>
+        <tbody>
+                @foreach (Contato c in Model)
+                {
+                   <tr>
+                       <td>@c.Id</td>
+                       <td>@c.Nome</td>
+                       <td>@c.Email</td>
+                       <td>@c.Assunto</td>
+                       <td>@c.Mensagem</td>
+
+                       <td>
+                           <a href="/Contato/Alterar_Contato?Id=@c.Id">Alterar</a>
+                           <a href="/Contato/Remover?Id=@c.Id">Excluir</a>
+
+                        </td>
+                   </tr> 
+                }
+        </tbody>
+
+    </table>
+
+    <footer>
+            <div>
+                <a>Veterinária responsável: Cristiane Muniz Mayer CRMV-DF 3076</a>               
+                <p>Atentimento em Brasilia e região no conforto de sua casa </p><a
+                    href="https://api.whatsapp.com/send/?phone=5561999983327&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+                <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank">
+                    <p>Todos os direitos reservado pela Lei Nº 13.709, de 14 de Agosto de 2018.</p></a>                
+                <p>Esse site foi produzido por: Maykon Figueredo de Borba com o e-mail: maykon_fb84@yahoo.com.br</p><a
+                    href="https://api.whatsapp.com/send/?phone=5541997027451&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+            </div>
+
+        </footer>

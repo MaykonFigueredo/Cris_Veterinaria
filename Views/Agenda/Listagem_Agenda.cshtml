@@ -1,0 +1,57 @@
+@model List<Agenda>
+@{
+    ViewData["Title"] = "Listagem_Agenda";
+}
+<h1>@ViewData["Title"]</h1>
+
+<style>
+    body{
+        background-image: url("/imagens/corredor_tropeiros.jpeg");
+        background-size: cover;
+    }
+</style>
+
+<table border="1">
+    <thead>
+        <th>Id</th>
+        <th>Nome</th>
+        <th>Telefone</th>
+        <th>Data</th>
+        <th>Animal</th>
+        <th>Necessidade</th>
+    </thead>
+    <tbody>
+        @foreach (Agenda a in Model){
+            <tr>
+                <td>@a.Id</td>
+                <td>@a.Nome</td>
+                <td>@a.Telefone</td>
+                <td>@a.Data.ToShortDateString()</td>
+                <td>@a.Animal</td>
+                <td>@a.Necessidade</td>
+             <td>
+    <a href="/Agenda/Alterar?Id=@a.Id">Alterar</a>
+    <a href="/Agenda/Remover?Id=@a.Id">Excluir</a>
+
+    </td>
+            </tr>
+        }
+        
+    </tbody>
+
+</table>
+<br>
+<a asp-action="Agenda">Novo Agendamento</a>
+
+<footer>
+            <div>
+                <a>Veterinária responsável: Cristiane Muniz Mayer CRMV-DF 3076</a>               
+                <p>Atentimento em Brasilia e região no conforto de sua casa </p><a
+                    href="https://api.whatsapp.com/send/?phone=5561999983327&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+                <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank">
+                    <p>Todos os direitos reservado pela Lei Nº 13.709, de 14 de Agosto de 2018.</p></a>                
+                <p>Esse site foi produzido por: Maykon Figueredo de Borba com o e-mail: maykon_fb84@yahoo.com.br</p><a
+                    href="https://api.whatsapp.com/send/?phone=5541997027451&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+            </div>
+
+        </footer>

@@ -1,0 +1,73 @@
+@model Agenda
+@{
+    ViewData["Title"] = "Cadastro_Agenda";
+}
+<h1>@ViewData["Title"]</h1>
+
+<style>
+
+   
+    body{
+        background-image: url("/imagens/Cachoeira.jpeg");
+        background-size: cover;
+    }
+    
+</style>
+
+<form method="POST">
+    <p>
+        <label>None:</label>
+        <input type="text" asp-for="Nome";>
+
+    </p>
+    <p>
+        <label>Telefone:</label>
+        <input type="text" asp-for="Telefone";>
+
+    </p>
+    <p>
+        <label>Data:</label>
+        <input type="date" asp-for="Data";>
+
+    </p>
+    <p>
+        <label>Animal</label>
+        <select asp-for="Animal">
+            <option value="cachorro">Cachorro</option>
+            <option value="gato">Gato</option>
+            <option value="passaros">Passaros</option>
+            <option value="roedores">Roedores</option>
+        </select>
+
+    </p>
+    <p>
+        <label>Necessidade</label>
+        <select asp-for="Necessidade" >
+            <option value="Banho">Banho</option>
+            <option value="Banho e Tosa">Banho e Tosa</option>
+            <option value="Tosa">Tosa</option>
+            <option value="Consulta">Consulta</option>
+            <option value="Exame">Exame</option>
+            <option value="Consulta e Exame">Consulta e Exame</option>
+            <option value="Vacina">Vacina</option>
+        </select>
+    </p>
+    <input type="submit" value="Agendar">
+
+</form>
+
+    @ViewBag.Mensagem
+</p>
+
+<footer>
+            <div>
+                <a>Veterinária responsável: Cristiane Muniz Mayer CRMV-DF 3076</a>               
+                <p>Atentimento em Brasilia e região no conforto de sua casa </p><a
+                    href="https://api.whatsapp.com/send/?phone=5561999983327&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+                <a href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm" target="_blank">
+                    <p>Todos os direitos reservado pela Lei Nº 13.709, de 14 de Agosto de 2018.</p></a>                
+                <p>Esse site foi produzido por: Maykon Figueredo de Borba com o e-mail: maykon_fb84@yahoo.com.br</p><a
+                    href="https://api.whatsapp.com/send/?phone=5541997027451&text&app_absent=0" target="_black"><p> ENTRE EM CONTATO </p></a>
+            </div>
+
+        </footer>

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Trochut&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menu{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.historia{
+    float: center;    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:red;    
+    text-align: center;
+}
+
+.texto{
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    text-align: left;
+    width:60%;
+}
+
+.cabeca{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.imgtexto{
+    float: right;
+    width: 40%;
+    
+    
+}
