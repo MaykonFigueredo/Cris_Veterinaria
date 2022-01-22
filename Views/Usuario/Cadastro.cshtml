@@ -10,35 +10,38 @@ ViewData["Title"] = "Cadastro";
     }
         
         input{font-size: 15px;}
+  
     </style>
+ <div class="row justify-content-md-center"> 
+   <div class="jumbotron col-6">
+       <h1>FAÇA SEU CADASTRO:</h1>    
 <form method="POST" asp-action="Cadastro"> 
-
-<p>
+<div class="form-group">
 <label asp-for="Nome">Nome:</label>
 <input asp-for="Nome">
-</p>
+</div>
 
-<p>
+<div class="form-group">
 <label asp-for="Login">Login:</label>
 <input asp-for="Login">
-</p>
+</div>
 
-<p>
+<div class="form-group">
 <label asp-for="Senha">Senha:</label>
 <input asp-for="Senha">
-</p>
+</div>
 
-<p>
+<div class="form-group">
 <label asp-for="DataNascimento">DataNascimento:</label>
 <input asp-for="DataNascimento" type="date">
+</div>
 
-<p>
-    <input type="submit" value="Realizar Cadastro">
-</p>
+    <input type="submit" class="btn btn-primary btn-lg" value="Entrar">
 
-</p>
 
 </form>
+</div>
+</div>
 <p>@ViewBag.Mensagem</p>
 
 <footer>

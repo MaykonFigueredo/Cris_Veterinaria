@@ -14,23 +14,28 @@
     
 </style>
 
-<form method="POST">
-    <p>
+<div class="row justify-content-md-center">
+    <div class="jumbotron col-6"> 
+        <h1> REALIZE SEU AGENDAMENTO</h1>
+      <form method="POST">
+    <div class="form-group">
         <label>None:</label>
         <input type="text" asp-for="Nome";>
+    </div>
 
-    </p>
-    <p>
+    <div class="form-group">
         <label>Telefone:</label>
         <input type="text" asp-for="Telefone";>
 
-    </p>
-    <p>
+    </div>
+
+    <div class="form-group">
         <label>Data:</label>
         <input type="date" asp-for="Data";>
 
-    </p>
-    <p>
+    </div>
+
+    <div class="form-group">
         <label>Animal</label>
         <select asp-for="Animal">
             <option value="cachorro">Cachorro</option>
@@ -39,8 +44,9 @@
             <option value="roedores">Roedores</option>
         </select>
 
-    </p>
-    <p>
+    </div>
+
+    <div class="form-group">
         <label>Necessidade</label>
         <select asp-for="Necessidade" >
             <option value="Banho">Banho</option>
@@ -51,13 +57,16 @@
             <option value="Consulta e Exame">Consulta e Exame</option>
             <option value="Vacina">Vacina</option>
         </select>
-    </p>
-    <input type="submit" value="Agendar">
+    </div>
+    <input type="submit" class="btn btn-primary btn-lg" value="Agendar">
 
 </form>
 
     @ViewBag.Mensagem
-</p>
+
+
+  </div>
+</div>
 
 <footer>
             <div>
