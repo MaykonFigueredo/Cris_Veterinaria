@@ -2,8 +2,6 @@
     max-width: 400px;
     max-height: 400px;
     position: relative;
-    left: 500px;
-    top: 100px;
     margin: auto;
     
 }
@@ -32,6 +30,13 @@
     width: 100%;
       
 
+}
+
+.tamanhoimg{
+    max-width: 400px;
+    max-height: 400px;
+    position: relative;
+    margin: auto;
 }
 
 .prev,.next{
@@ -87,3 +92,4 @@
     from{opacity: 0.4;}
     to{opacity: 1;}
 }
+
